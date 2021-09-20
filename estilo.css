@@ -8,6 +8,16 @@ a{
 
 /* Inicio do Menu*/
 
-menu{
+.menu{
+    margin-top: 1;
+}
+
+.titulo{
     text-align: center;
+}
+
+links{
+    font-size: 1rem;
+    border: 1rem;
+    margin: 1rem;
 }
